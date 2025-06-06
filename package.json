@@ -2,7 +2,7 @@
   "name": "wolfenstein-3d-game",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://fedorrodin.github.io/tralalelo",
+  "homepage": "https://rodinf.github.io/tralalelo",
   "dependencies": {
     "@react-three/drei": "^9.88.0",
     "@react-three/fiber": "^8.15.0",
