@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tralalelo/static/css/main.1f0b6689.css",
+    "main.js": "/tralalelo/static/js/main.9583ed28.js",
+    "index.html": "/tralalelo/index.html",
+    "main.1f0b6689.css.map": "/tralalelo/static/css/main.1f0b6689.css.map",
+    "main.9583ed28.js.map": "/tralalelo/static/js/main.9583ed28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f0b6689.css",
+    "static/js/main.9583ed28.js"
+  ]
+}
